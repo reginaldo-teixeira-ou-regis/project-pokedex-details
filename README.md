@@ -14,3 +14,5 @@
 <p><img width="1000" height="500" src="/img/tela.gif"></p>
 
 ![Logo do Meu Projeto](images/home-screen.png)
+
+<p><img width="1000" height="500" src="/assets/images/about.png"></p>
