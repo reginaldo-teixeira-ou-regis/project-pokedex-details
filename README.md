@@ -5,3 +5,10 @@
 - [![API REST](https://img.shields.io/badge/API%20REST-%23007ACC.svg?style=plastic&logo=rest&logoColor=white)](https://exemplo-api-rest.com)
 - [![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-%23333.svg?style=plastic&logo=pokemon&logoColor=white)](https://pokeapi.co/)
 
+
+<p><img width="1000" height="500" src="/images/home-screen.png"></p>
+<p><img width="1000" height="500" src="/img/tela.gif"></p>
+<p><img width="1000" height="500" src="/img/tela.gif"></p>
+
+<p><img width="1000" height="500" src="/img/tela.gif"></p>
+<p><img width="1000" height="500" src="/img/tela.gif"></p>
