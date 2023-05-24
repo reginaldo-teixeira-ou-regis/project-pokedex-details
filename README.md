@@ -9,5 +9,5 @@
 <p><img width="1000" height="500" src="/assets/images/home-screen.png"></p>
 <p><img width="1000" height="500" src="/assets/images/about.png"></p>
 <p><img width="1000" height="500" src="/assets/images/attributes.png"></p>
-<p><img width="500" height="500" src="/assets/images/evolution-360-557.png"></p>
-<p><img width="500" height="500" src="/assets/images/moves-360-557.png"></p>
+<p><img src="/assets/images/evolution-360-557.png"></p>
+<p><img src="/assets/images/moves-360-557.png"></p>
