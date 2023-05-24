@@ -1,3 +1,10 @@
+## Pokedex Details:
+- Receive pokemons and their details by API;
+- We started with 12 cards on the home screen;
+- Each time you click on "more card click here" more 12 different cards are listed;
+- By clicking on a card we can see its details;
+- Clicking on About, Attributes, Evolution or Moves of the selected card we can see the clicked characteristics of that card.
+
 ## Technologies used:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
